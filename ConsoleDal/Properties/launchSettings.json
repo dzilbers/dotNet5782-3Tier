@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleDal": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

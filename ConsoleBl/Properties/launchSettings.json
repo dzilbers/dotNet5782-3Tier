@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleBl": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)",
+      "sqlDebugging": true
+    }
+  }
+}
